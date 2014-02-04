@@ -26,6 +26,14 @@
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
+	
+	<answer fraction="0">
+		<text>Quizz by Clement</text>
+		<feedback>
+			<text>Hellloooooooo!</text>
+		</feedback>
+	</answer>
+	
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
 </question>

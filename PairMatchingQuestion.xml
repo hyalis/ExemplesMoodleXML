@@ -20,5 +20,13 @@
 			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
+	
+	<subquestion>
+		<text>BIJOUUUUR</text>
+		<answer>
+			<text>C'est moiiii</text>
+		</answer>
+	</subquestion>
+	
 	<shuffleanswers>true
 </question>
